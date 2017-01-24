@@ -9,14 +9,14 @@ Try hard not to read ahead—do each part in turn.
 
 ### Part One: Weather Data
 
-In weather.dat you’ll find daily weather data for Morristown,
+In [weather.dat][1] you’ll find daily weather data for Morristown,
 NJ for June 2002. Download this text file, then write a program to
 output the day number (column one) with the smallest temperature
 spread (the maximum temperature is the second column, the minimum the third column).
 
 ### Part Two: Soccer League Table
 
-The file football.dat contains the results from the English
+The file [football.dat][2] contains the results from the English
 Premier League for 2001/2. The columns labeled ‘F’ and ‘A’
 contain the total number of goals scored for and against each
 team in that season (so Arsenal scored 79 goals against opponents,
@@ -44,3 +44,7 @@ How about the maintainability?
 ## Source
 
 http://codekata.com/kata/kata04-data-munging/
+
+
+[1]: http://codekata.com/data/04/weather.dat
+[2]: http://codekata.com/data/04/football.dat
